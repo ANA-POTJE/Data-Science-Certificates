@@ -1,5 +1,7 @@
 # Couses and Certifications
 
+•	Neo4j Professional Certification - May 14, 2020
+
 •	Kaggle - Feature Engineering - April 24, 2020
 https://www.kaggle.com/learn/certification/anapotje/feature-engineering
 
@@ -11,6 +13,10 @@ https://www.kaggle.com/learn/certification/anapotje/intermediate-machine-learnin
 
 •	Kaggle - Intro to Machine Learning - April 18, 2020
 https://www.kaggle.com/learn/certification/anapotje/intro-to-machine-learning
+
+•	Cambridge Spark Applied Data Science Bootcamp - Apr 18, 2020
+
+•	Cambridge Spark Python Bootcamp - Jul 21, 2019
 
 •	M001 MongoDB Basics - December 21, 2018 / MongoDB University
 
