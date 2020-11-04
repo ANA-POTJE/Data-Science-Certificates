@@ -16,6 +16,7 @@ https://www.kaggle.com/learn/certification/anapotje/intermediate-machine-learnin
 https://www.kaggle.com/learn/certification/anapotje/intro-to-machine-learning
 
 •	Cambridge Spark Applied Data Science Bootcamp - Apr 18, 2020
+https://www.credential.net/a9cd39ac-3e54-4312-a7c8-1da01e36fc5a#gs.k0h1oa
 
 •	Cambridge Spark Python Bootcamp - Jul 21, 2019
 
