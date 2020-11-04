@@ -1,6 +1,7 @@
 # Couses and Certifications
 
 •	Neo4j Professional Certification - May 14, 2020<br />
+### `Neo4j Professional Certification - May 14, 2020`
 https://graphacademy.neo4j.com/certificates/52521cd7e2edf6c2e484c18275d71854196f59e6560eb246fdebefb3c09fcc6a.pdf
 
 •	Kaggle - Feature Engineering - April 24, 2020<br />
