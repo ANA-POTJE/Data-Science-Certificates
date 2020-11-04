@@ -1,7 +1,19 @@
-# Couses and Certifications
+# Certifications
 
 ### `Neo4j Professional Certification` - May 14, 2020
 https://graphacademy.neo4j.com/certificates/52521cd7e2edf6c2e484c18275d71854196f59e6560eb246fdebefb3c09fcc6a.pdf
+
+### `OCP - Oracle 9i Database Certified Professional` - 2005 – Oracle Corporation
+
+# Bootcamps
+
+### `Cambridge Spark Applied Data Science Bootcamp` - Apr 18, 2020
+https://www.credential.net/a9cd39ac-3e54-4312-a7c8-1da01e36fc5a#gs.k0h1oa
+
+### `Cambridge Spark Python Bootcamp` - Jul 21, 2019
+https://www.credential.net/97f0ef75-0602-4ef8-9506-3aba3a622773#gs.k0jzw0
+
+# Courses
 
 ### `Kaggle - Feature Engineering` - April 24, 2020
 https://www.kaggle.com/learn/certification/anapotje/feature-engineering
@@ -14,12 +26,6 @@ https://www.kaggle.com/learn/certification/anapotje/intermediate-machine-learnin
 
 ### `Kaggle - Intro to Machine Learning` - April 18, 2020
 https://www.kaggle.com/learn/certification/anapotje/intro-to-machine-learning
-
-### `Cambridge Spark Applied Data Science Bootcamp` - Apr 18, 2020
-https://www.credential.net/a9cd39ac-3e54-4312-a7c8-1da01e36fc5a#gs.k0h1oa
-
-### `Cambridge Spark Python Bootcamp` - Jul 21, 2019
-https://www.credential.net/97f0ef75-0602-4ef8-9506-3aba3a622773#gs.k0jzw0
 
 ### `M001 MongoDB Basics` - December 21, 2018 / MongoDB University
 https://university.mongodb.com/course_completion/e89ea1e1-3332-4567-895b-ca6fc20a
@@ -41,5 +47,3 @@ https://www.coursera.org/account/accomplishments/certificate/HF33N3RPEK4R
 
 ### `Responsive Website Basics: Code with HTML, CSS, and JavaScript` - September 21, 2016 / University of London (Coursera)
 https://www.coursera.org/account/accomplishments/certificate/CNSBSJX7YZGA
-
-### `OCP - Oracle 9i Database Certified Professional` - 2005 – Oracle Corporation
