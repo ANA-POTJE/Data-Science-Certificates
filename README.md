@@ -10,7 +10,7 @@ https://www.credential.net/97f0ef75-0602-4ef8-9506-3aba3a622773#gs.k0jzw0
 
 <br />
 
-# Certifications
+# Database Certifications
 
 #### `Neo4j Professional Certification` - May 14, 2020
 https://graphacademy.neo4j.com/certificates/52521cd7e2edf6c2e484c18275d71854196f59e6560eb246fdebefb3c09fcc6a.pdf
